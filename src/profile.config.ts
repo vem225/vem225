@@ -63,7 +63,7 @@ export interface ShaderScheduleRule {
 
 export const PROFILE_CONFIG = {
   output: 'dist/profile.svg',
-  githubUsername: 'itsrodio',
+  githubUsername: 'vem225',
 
   // Terminal text
   terminal: {
@@ -174,8 +174,8 @@ export const PROFILE_CONFIG = {
       {
         name: 'Birthday',
         shader: 'fireworks',
-        from: '09-01',
-        to: '09-03',
+        from: '02-21',
+        to: '02-23',
         greeting: "It's my Birthday! Another year of uptime 🎉",
       },
       {
