@@ -79,15 +79,15 @@ export const PROFILE_CONFIG = {
   info: [
     // Tech & Environment
     { label: 'Stack', value: 'Gemini, DeepSeek, ChatGPT' },
-    { label: 'OS', value: 'Windows OS' },
+    { label: 'OS', value: 'Windows 11' },
     { label: 'Package Manager', value: 'pnpm' },
-    { label: 'Shell', value: 'tsx (esbuild)' },
+    { label: 'Shell', value: 'Bash' },
     { label: 'Editor', value: 'VS Code' },
     {
       label: 'GitHub',
       value: {
         type: 'github',
-        username: 'itsrodio',
+        username: 'vem225',
         metrics: ['repos', 'stars', 'commits'],
         minRepos: 13,
       },
@@ -97,12 +97,12 @@ export const PROFILE_CONFIG = {
     { type: 'divider', title: 'About me' },
 
     // Personal Info
-    { label: 'Role', value: 'VibeCoder' },
+    { label: 'Role', value: 'Professional Prompt Engineer' },
     { label: 'Uptime', value: { type: 'uptime', birthDate: '2006-02-23', units: ['y', 'm', 'd'] } },
     { label: 'Location', value: 'Russia' },
     { label: 'Timezone', value: { type: 'timezone', timeZone: 'Europe/Moscow' } },
     { label: 'Locale', value: 'RU, EN' },
-    { label: 'Status', value: 'Building kinda cool(maybe) stuff everywhere' },
+    { label: 'Status', value: 'Building some kinda cool stuff... maybe' },
   ] satisfies InfoRow[],
 
   // Shader selection, per-preset colors/swatches/greetings & holiday/seasonal schedule
