@@ -67,10 +67,10 @@ export const PROFILE_CONFIG = {
 
   // Terminal text
   terminal: {
-    windowTitle: 'rodio — tsx — 80×24',
-    prompt: 'rodio@MacBook-Pro ~ %',
+    windowTitle: 'vem — tsx — 80×24',
+    prompt: 'vem@Windows-PC ~ %',
     command: 'pnpm tsx src/profile-fetch.ts',
-    userHeader: 'rodio@MacBook-Pro',
+    userHeader: 'vem@Windows-PC',
     dividerLength: 42,
     showBottomCursor: true,
   },
@@ -78,8 +78,8 @@ export const PROFILE_CONFIG = {
   // Info rows on the right (add or remove as many as you want — window height recalculates automatically)
   info: [
     // Tech & Environment
-    { label: 'Stack', value: 'TypeScript, React, Next.js, Node' },
-    { label: 'OS', value: 'OS Agnostic' },
+    { label: 'Stack', value: 'Gemini, DeepSeek, ChatGPT' },
+    { label: 'OS', value: 'Windows OS' },
     { label: 'Package Manager', value: 'pnpm' },
     { label: 'Shell', value: 'tsx (esbuild)' },
     { label: 'Editor', value: 'VS Code' },
@@ -97,12 +97,12 @@ export const PROFILE_CONFIG = {
     { type: 'divider', title: 'About me' },
 
     // Personal Info
-    { label: 'Role', value: 'Creative Web Dev' },
-    { label: 'Uptime', value: { type: 'uptime', birthDate: '2006-09-02', units: ['y', 'm', 'd'] } },
-    { label: 'Location', value: 'Spain' },
-    { label: 'Timezone', value: { type: 'timezone', timeZone: 'Europe/Madrid' } },
-    { label: 'Locale', value: 'RU, EN, ES, CAT' },
-    { label: 'Status', value: 'Building cool stuff on the web' },
+    { label: 'Role', value: 'VibeCoder' },
+    { label: 'Uptime', value: { type: 'uptime', birthDate: '2006-02-23', units: ['y', 'm', 'd'] } },
+    { label: 'Location', value: 'Russia' },
+    { label: 'Timezone', value: { type: 'timezone', timeZone: 'Europe/Moscow' } },
+    { label: 'Locale', value: 'RU, EN' },
+    { label: 'Status', value: 'Building kinda cool(maybe) stuff everywhere' },
   ] satisfies InfoRow[],
 
   // Shader selection, per-preset colors/swatches/greetings & holiday/seasonal schedule
