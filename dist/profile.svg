@@ -96,10 +96,10 @@
   <circle cx="40" cy="19" r="6" fill="#ffbd2e" />
   <circle cx="60" cy="19" r="6" fill="#27c93f" />
 
-  <text x="420" y="23" text-anchor="middle" class="title muted">rodio — tsx — 80×24</text>
+  <text x="420" y="23" text-anchor="middle" class="title muted">vem — tsx — 80×24</text>
 
   <text x="28" y="62" class="mono">
-    <tspan class="prompt bold">rodio@MacBook-Pro ~ %</tspan>
+    <tspan class="prompt bold">vem@Windows-PC ~ %</tspan>
     <tspan class="fg" dx="6">pnpm tsx src/profile-fetch.ts</tspan>
   </text>
 
@@ -128,15 +128,15 @@
   <g class="frame f-22"><text y="84" class="mono-hires shader-text" xml:space="preserve"><tspan x="28" dy="0" class="c4">###################################################*****</tspan><tspan class="c3">****</tspan><tspan x="28" dy="12.5" class="c5">%%%%%%%%%%%</tspan><tspan class="c4">############****************#####################</tspan><tspan x="28" dy="12.5" class="c5">%%%%%%%%%%%</tspan><tspan class="c4">######***</tspan><tspan class="c3">*******++++++********</tspan><tspan class="c4">***################</tspan><tspan x="28" dy="12.5" class="c5">%%%%%%%%</tspan><tspan class="c4">#####**</tspan><tspan class="c3">**+++++</tspan><tspan class="c2">++===========++</tspan><tspan class="c3">+++++****</tspan><tspan class="c4">**########</tspan><tspan class="c5">%%%%</tspan><tspan x="28" dy="12.5" class="c5">%%%%%</tspan><tspan class="c4">####*</tspan><tspan class="c3">**+++</tspan><tspan class="c2">+=====--</tspan><tspan class="c1">-----------</tspan><tspan class="c2">--=====+</tspan><tspan class="c3">++++***</tspan><tspan class="c4">**#######</tspan><tspan class="c5">%%</tspan><tspan x="28" dy="12.5" class="c5">%</tspan><tspan class="c4">####*</tspan><tspan class="c3">**+++</tspan><tspan class="c2">====-</tspan><tspan class="c1">---:::::</tspan><tspan class="c0">::::::</tspan><tspan class="c1">:::::-----</tspan><tspan class="c2">=====+</tspan><tspan class="c3">+++***</tspan><tspan class="c4">*#######</tspan><tspan x="28" dy="12.5" class="c4">##*</tspan><tspan class="c3">**++</tspan><tspan class="c2">===-</tspan><tspan class="c1">---::</tspan><tspan class="c0">::...............::</tspan><tspan class="c1">:::----</tspan><tspan class="c2">-====+</tspan><tspan class="c3">+++***</tspan><tspan class="c4">***###</tspan><tspan x="28" dy="12.5" class="c3">*+++</tspan><tspan class="c2">===</tspan><tspan class="c1">---::</tspan><tspan class="c0">:......       ........::</tspan><tspan class="c1">:::----</tspan><tspan class="c2">-=====+</tspan><tspan class="c3">++++****</tspan><tspan class="c4">**</tspan><tspan x="28" dy="12.5" class="c3">+</tspan><tspan class="c2">===</tspan><tspan class="c1">---:</tspan><tspan class="c0">::....            ......::</tspan><tspan class="c1">::::----</tspan><tspan class="c2">--======++</tspan><tspan class="c3">+++++++*</tspan><tspan x="28" dy="12.5" class="c2">==</tspan><tspan class="c1">--::</tspan><tspan class="c0">:....            ......::</tspan><tspan class="c1">:::-----</tspan><tspan class="c2">-===========+++</tspan><tspan class="c3">++++++</tspan><tspan x="28" dy="12.5" class="c1">--::</tspan><tspan class="c0">:....           .....::</tspan><tspan class="c1">::----</tspan><tspan class="c2">-============++++==========</tspan><tspan x="28" dy="12.5" class="c1">-::</tspan><tspan class="c0">:.....       .....::</tspan><tspan class="c1">:::---</tspan><tspan class="c2">-=====+</tspan><tspan class="c3">++++++++++++++</tspan><tspan class="c2">+++=======</tspan><tspan x="28" dy="12.5" class="c1">-::</tspan><tspan class="c0">:..............::</tspan><tspan class="c1">::---</tspan><tspan class="c2">-=====+</tspan><tspan class="c3">++++**********++++++</tspan><tspan class="c2">+=======</tspan><tspan x="28" dy="12.5" class="c1">-::</tspan><tspan class="c0">::..........::</tspan><tspan class="c1">::---</tspan><tspan class="c2">-====++</tspan><tspan class="c3">+++***</tspan><tspan class="c4">*********</tspan><tspan class="c3">****++++</tspan><tspan class="c2">++======</tspan><tspan x="28" dy="12.5" class="c1">--:::</tspan><tspan class="c0">:::::::::</tspan><tspan class="c1">:::---</tspan><tspan class="c2">====+</tspan><tspan class="c3">++++***</tspan><tspan class="c4">**#########**</tspan><tspan class="c3">****++++</tspan><tspan class="c2">+======</tspan><tspan x="28" dy="12.5" class="c2">-</tspan><tspan class="c1">----:::::::::---</tspan><tspan class="c2">-====+</tspan><tspan class="c3">+++***</tspan><tspan class="c4">***###########**</tspan><tspan class="c3">****++++</tspan><tspan class="c2">++=====</tspan><tspan x="28" dy="12.5" class="c2">===-</tspan><tspan class="c1">-----------</tspan><tspan class="c2">-=====+</tspan><tspan class="c3">+++****</tspan><tspan class="c4">***#########***</tspan><tspan class="c3">****++++++</tspan><tspan class="c2">+++===</tspan><tspan x="28" dy="12.5" class="c3">+</tspan><tspan class="c2">+==================+</tspan><tspan class="c3">+++++*****</tspan><tspan class="c4">*********</tspan><tspan class="c3">******++++++++++++++</tspan><tspan x="28" dy="12.5" class="c3">*+++++</tspan><tspan class="c2">+=============++</tspan><tspan class="c3">+++++++++**********+++++++++++++++++++</tspan><tspan x="28" dy="12.5" class="c4">**</tspan><tspan class="c3">****++++++</tspan><tspan class="c2">++++====++++++</tspan><tspan class="c3">++++++++++++++++++++++++++++++++**</tspan><tspan x="28" dy="12.5" class="c4">####***</tspan><tspan class="c3">***+++++++</tspan><tspan class="c2">+++=================++++++</tspan><tspan class="c3">+++++++++++******</tspan><tspan x="28" dy="12.5" class="c4">#######***</tspan><tspan class="c3">***+++++</tspan><tspan class="c2">++======================++</tspan><tspan class="c3">+++++++*****</tspan><tspan class="c4">****</tspan><tspan x="28" dy="12.5" class="c5">%%</tspan><tspan class="c4">#######**</tspan><tspan class="c3">***+++++</tspan><tspan class="c2">+======================+</tspan><tspan class="c3">++++++*****</tspan><tspan class="c4">*****#</tspan><tspan x="28" dy="12.5" class="c4">#########**</tspan><tspan class="c3">***++++</tspan><tspan class="c2">+======================+</tspan><tspan class="c3">++++++*****</tspan><tspan class="c4">*******</tspan><tspan x="28" dy="12.5" class="c4">######***</tspan><tspan class="c3">***++++</tspan><tspan class="c2">++========-----==========+</tspan><tspan class="c3">+++++*****</tspan><tspan class="c4">********</tspan><tspan x="28" dy="12.5" class="c4">***</tspan><tspan class="c3">*****+++++</tspan><tspan class="c2">+=======--</tspan><tspan class="c1">--------</tspan><tspan class="c2">---=======+</tspan><tspan class="c3">++++++************</tspan></text></g>
   <g class="frame f-23"><text y="84" class="mono-hires shader-text" xml:space="preserve"><tspan x="28" dy="0" class="c4">#######################################################***</tspan><tspan class="c3">**</tspan><tspan x="28" dy="12.5" class="c4">#######################*********###########################*</tspan><tspan x="28" dy="12.5" class="c5">%%%%%</tspan><tspan class="c4">########***</tspan><tspan class="c3">*******+++++++++++++********</tspan><tspan class="c4">******##########</tspan><tspan x="28" dy="12.5" class="c5">%%</tspan><tspan class="c4">######**</tspan><tspan class="c3">****++++</tspan><tspan class="c2">++===================+</tspan><tspan class="c3">+++++++*****</tspan><tspan class="c4">****####</tspan><tspan x="28" dy="12.5" class="c4">####**</tspan><tspan class="c3">***+++</tspan><tspan class="c2">+=====-</tspan><tspan class="c1">------------------</tspan><tspan class="c2">--=======+</tspan><tspan class="c3">+++++*****</tspan><tspan class="c4">***</tspan><tspan x="28" dy="12.5" class="c4">#*</tspan><tspan class="c3">***++</tspan><tspan class="c2">+====-</tspan><tspan class="c1">----::::</tspan><tspan class="c0">::::::::::</tspan><tspan class="c1">::::::------</tspan><tspan class="c2">-======+</tspan><tspan class="c3">+++++****</tspan><tspan x="28" dy="12.5" class="c3">*+++</tspan><tspan class="c2">====</tspan><tspan class="c1">---:::</tspan><tspan class="c0">::................:::</tspan><tspan class="c1">:::::-----</tspan><tspan class="c2">--======+</tspan><tspan class="c3">++++++</tspan><tspan x="28" dy="12.5" class="c3">+</tspan><tspan class="c2">===-</tspan><tspan class="c1">---::</tspan><tspan class="c0">::...................:::</tspan><tspan class="c1">:::::------</tspan><tspan class="c2">--=========++</tspan><tspan class="c3">++</tspan><tspan x="28" dy="12.5" class="c2">==</tspan><tspan class="c1">---::</tspan><tspan class="c0">:........   .........:::</tspan><tspan class="c1">::::------</tspan><tspan class="c2">--=================</tspan><tspan x="28" dy="12.5" class="c1">---::</tspan><tspan class="c0">:.......    ........::</tspan><tspan class="c1">::::----</tspan><tspan class="c2">-========================</tspan><tspan x="28" dy="12.5" class="c1">-::</tspan><tspan class="c0">::.................::</tspan><tspan class="c1">:::----</tspan><tspan class="c2">-=====+</tspan><tspan class="c3">++++++++++++</tspan><tspan class="c2">++========</tspan><tspan x="28" dy="12.5" class="c1">::</tspan><tspan class="c0">::..............::</tspan><tspan class="c1">:::----</tspan><tspan class="c2">-=====+</tspan><tspan class="c3">++++**********+++++</tspan><tspan class="c2">++=====</tspan><tspan x="28" dy="12.5" class="c1">::</tspan><tspan class="c0">::...........::</tspan><tspan class="c1">:::----</tspan><tspan class="c2">-======</tspan><tspan class="c3">+++***</tspan><tspan class="c4">**######***</tspan><tspan class="c3">***++++</tspan><tspan class="c2">+====</tspan><tspan x="28" dy="12.5" class="c1">:::</tspan><tspan class="c0">::......:::</tspan><tspan class="c1">:::---</tspan><tspan class="c2">-======++</tspan><tspan class="c3">+++**</tspan><tspan class="c4">**############**</tspan><tspan class="c3">**++++</tspan><tspan class="c2">====</tspan><tspan x="28" dy="12.5" class="c1">-:::</tspan><tspan class="c0">::::::</tspan><tspan class="c1">::::---</tspan><tspan class="c2">-====+</tspan><tspan class="c3">+++++***</tspan><tspan class="c4">*#####</tspan><tspan class="c5">%%%%%%%</tspan><tspan class="c4">#####**</tspan><tspan class="c3">**+++</tspan><tspan class="c2">+===</tspan><tspan x="28" dy="12.5" class="c1">---::::::::----</tspan><tspan class="c2">-====+</tspan><tspan class="c3">+++**</tspan><tspan class="c4">**######</tspan><tspan class="c5">%%%%%%%%%%%</tspan><tspan class="c4">####**</tspan><tspan class="c3">**+++</tspan><tspan class="c2">+===</tspan><tspan x="28" dy="12.5" class="c2">-</tspan><tspan class="c1">------------</tspan><tspan class="c2">-====+</tspan><tspan class="c3">+++***</tspan><tspan class="c4">*######</tspan><tspan class="c5">%%%%%%%%%%%</tspan><tspan class="c4">#####**</tspan><tspan class="c3">**++++</tspan><tspan class="c2">+===</tspan><tspan x="28" dy="12.5" class="c2">===--</tspan><tspan class="c1">------</tspan><tspan class="c2">--=====+</tspan><tspan class="c3">+++***</tspan><tspan class="c4">**#######</tspan><tspan class="c5">%%%%%</tspan><tspan class="c4">#######**</tspan><tspan class="c3">***+++++</tspan><tspan class="c2">+===</tspan><tspan x="28" dy="12.5" class="c2">+=================+</tspan><tspan class="c3">++++****</tspan><tspan class="c4">***############***</tspan><tspan class="c3">****++++++</tspan><tspan class="c2">+++==</tspan><tspan x="28" dy="12.5" class="c3">+++</tspan><tspan class="c2">+===============++</tspan><tspan class="c3">++++++*****************+++++++++</tspan><tspan class="c2">+++++++</tspan><tspan x="28" dy="12.5" class="c3">*++++++</tspan><tspan class="c2">+================+++</tspan><tspan class="c3">+++++++++++++++++++++</tspan><tspan class="c2">++++++++</tspan><tspan class="c3">++++</tspan><tspan x="28" dy="12.5" class="c4">*</tspan><tspan class="c3">****+++++</tspan><tspan class="c2">++=====================================++++</tspan><tspan class="c3">+++++++</tspan><tspan x="28" dy="12.5" class="c4">***</tspan><tspan class="c3">****+++++</tspan><tspan class="c2">++===================================++</tspan><tspan class="c3">+++++++++</tspan><tspan x="28" dy="12.5" class="c4">#****</tspan><tspan class="c3">***+++++</tspan><tspan class="c2">+========----</tspan><tspan class="c1">------</tspan><tspan class="c2">----===========++</tspan><tspan class="c3">+++++++++++</tspan><tspan x="28" dy="12.5" class="c4">****</tspan><tspan class="c3">****+++++</tspan><tspan class="c2">+=======--</tspan><tspan class="c1">-----------</tspan><tspan class="c2">---========++</tspan><tspan class="c3">++++++++++***</tspan><tspan x="28" dy="12.5" class="c3">*******+++++</tspan><tspan class="c2">+=======-</tspan><tspan class="c1">-------------</tspan><tspan class="c2">--========+</tspan><tspan class="c3">++++++++++**+++</tspan></text></g>
 
-  <text x="430" y="88" class="mono bold accent">rodio@MacBook-Pro</text>
+  <text x="430" y="88" class="mono bold accent">vem@Windows-PC</text>
   <text x="430" y="100" class="mono muted">──────────────────────────────────────────</text>
   <text x="430" y="112" class="mono">
     <tspan class="accent bold">Stack:</tspan>
-    <tspan class="fg" dx="6">TypeScript, React, Next.js, Node</tspan>
+    <tspan class="fg" dx="6">Gemini, DeepSeek, ChatGPT</tspan>
   </text>
   <text x="430" y="134" class="mono">
     <tspan class="accent bold">OS:</tspan>
-    <tspan class="fg" dx="6">OS Agnostic</tspan>
+    <tspan class="fg" dx="6">Windows 11</tspan>
   </text>
   <text x="430" y="156" class="mono">
     <tspan class="accent bold">Package Manager:</tspan>
@@ -144,7 +144,7 @@
   </text>
   <text x="430" y="178" class="mono">
     <tspan class="accent bold">Shell:</tspan>
-    <tspan class="fg" dx="6">tsx (esbuild)</tspan>
+    <tspan class="fg" dx="6">Bash</tspan>
   </text>
   <text x="430" y="200" class="mono">
     <tspan class="accent bold">Editor:</tspan>
@@ -152,32 +152,32 @@
   </text>
   <text x="430" y="222" class="mono">
     <tspan class="accent bold">GitHub:</tspan>
-    <tspan class="fg" dx="6">13 repos · 565 commits</tspan>
+    <tspan class="fg" dx="6">13 repos · 113 commits</tspan>
   </text>
   <text x="430" y="244" class="mono muted">── About me ──────────────────────────────</text>
   <text x="430" y="266" class="mono">
     <tspan class="accent bold">Role:</tspan>
-    <tspan class="fg" dx="6">Creative Web Dev</tspan>
+    <tspan class="fg" dx="6">Professional Prompt Engineer</tspan>
   </text>
   <text x="430" y="288" class="mono">
     <tspan class="accent bold">Uptime:</tspan>
-    <tspan class="fg" dx="6">20 years, 2 months, 13 days</tspan>
+    <tspan class="fg" dx="6">20 years, 8 months, 23 days</tspan>
   </text>
   <text x="430" y="310" class="mono">
     <tspan class="accent bold">Location:</tspan>
-    <tspan class="fg" dx="6">Spain</tspan>
+    <tspan class="fg" dx="6">Russia</tspan>
   </text>
   <text x="430" y="332" class="mono">
     <tspan class="accent bold">Timezone:</tspan>
-    <tspan class="fg" dx="6">Europe/Madrid (UTC+1)</tspan>
+    <tspan class="fg" dx="6">Europe/Moscow (UTC+3)</tspan>
   </text>
   <text x="430" y="354" class="mono">
     <tspan class="accent bold">Locale:</tspan>
-    <tspan class="fg" dx="6">RU, EN, ES, CAT</tspan>
+    <tspan class="fg" dx="6">RU, EN</tspan>
   </text>
   <text x="430" y="376" class="mono">
     <tspan class="accent bold">Status:</tspan>
-    <tspan class="fg" dx="6">Building cool stuff on the web</tspan>
+    <tspan class="fg" dx="6">Building some kinda cool stuff... maybe</tspan>
   </text>
   <rect x="430" y="406" width="18" height="12" rx="3" fill="#1d3b78" />
   <rect x="454" y="406" width="18" height="12" rx="3" fill="#2D68C4" />
@@ -186,7 +186,7 @@
   <rect x="526" y="406" width="18" height="12" rx="3" fill="#9381ff" />
   <rect x="550" y="406" width="18" height="12" rx="3" fill="#c4b5fd" />
   <text x="28" y="448" class="mono">
-    <tspan class="prompt bold">rodio@MacBook-Pro ~ %</tspan>
+    <tspan class="prompt bold">vem@Windows-PC ~ %</tspan>
     <tspan class="cursor" dx="6">█</tspan>
   </text>
 </svg>
